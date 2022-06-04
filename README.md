@@ -26,12 +26,6 @@
 </p>
 
 
-![ZINO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinho2070&theme=react&show_icons=true) <br>
-
-[![ZINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&hide_border=true&icon_color=004386&theme=dark&layout=compact)](https://github.com/jinho2070)
-
-
-
 
 ![header](https://capsule-render.vercel.app/api?&color=B22222&type=waving&section=footer)
 
