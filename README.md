@@ -11,6 +11,14 @@
 
 <!-- ### Work Experience -->
 
+### Studied
+- Elementary/Applied Statistics
+- Biostatistics in Clinical Trials for New Drug Development
+- ML/DL fundamentals
+
+### Studying
+- MLOps(MLflow, Docker, FastAPI, AirFlow)
+
 ### Education Experience
 - 2022.05 ~ 2022.07 `2022년 서울시 뉴딜일자리사업 서비스플랫폼 개발자 양성 과정`
 - 2021.10 ~ 2022.05 `SK Planet_T-Academy Python 기반 AI 활용 데이터 분석가 양성 과정`
