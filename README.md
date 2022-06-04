@@ -20,6 +20,4 @@
 
 <br>
 
-[![JINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jinho2070)
-
-[![hyeniii's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeniii&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=react&layout=compact)](https://github.com/hyeniii)
+[![JINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=react&layout=compact)](https://github.com/jinho2070)
