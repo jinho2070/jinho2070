@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=57BDDA&height=150&section=header&text=ZINO's&nbsp;&nbsp;GitHub&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=57BDDA&height=200&section=header&text=ZINO's&nbsp;&nbsp;GitHub&fontSize=70&animation=twinkling)
 
 ### Who Am I
 
