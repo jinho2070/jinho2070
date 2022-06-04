@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B22222&height=200&section=header&text=ZINO's&nbsp;&nbsp;GitHub&animation=twinkling)
-
 # Hi 👋, I'm JinHo Han
 
 ## 👨🏻‍💻 About Me
