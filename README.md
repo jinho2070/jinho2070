@@ -5,7 +5,8 @@
 ### Who Am I
 - [What-I-learn]()
 - [Git-Blog](https://jinho2070.github.io/)
-- I aim to be a developer who is constantly growing.
+- <span style='background-color:fff5b1'>"I aim to be a developer who is constantly growing."</span>
+- <span style="color:blue">파란 색</span>
 
 <!-- ### Kaggle -->
 
