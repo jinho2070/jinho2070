@@ -5,7 +5,7 @@
 ## 👨🏻‍💻 About Me
 ### Who Am I
 - [What-I-learn]()
-- [Git-Blog]()
+- [Git-Blog](https://jinho2070.github.io/)
 - [Resume]()
 
 <!-- ### Kaggle -->
