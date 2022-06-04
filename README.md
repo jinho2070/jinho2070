@@ -21,14 +21,14 @@
 <p align="center">
   <a href="https://github.com/jinho2070">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jinho2070&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="jinho2070" align="center"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=jinho2070&theme=dark" alt="jinho2070" align="center"/>
+    <img height="160em" src="[https://github-readme-streak-stats.herokuapp.com/?user=jinho2070&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&hide_border=true&icon_color=004386&theme=dark&layout=compact)" alt="jinho2070" align="center"/>
   </a>
 </p>
 
 
 ![ZINO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinho2070&theme=react&show_icons=true) <br>
 
-[![ZINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&hide_border=true&icon_color=004386&theme=react&layout=compact)](https://github.com/jinho2070)
+[![ZINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&hide_border=true&icon_color=004386&theme=dark&layout=compact)](https://github.com/jinho2070)
 
 
 
