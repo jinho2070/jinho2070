@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=80FFFF&height=200&section=header&text=ZINO's&nbsp;&nbsp;GitHub&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B22222&height=200&section=header&text=ZINO's&nbsp;&nbsp;GitHub&animation=twinkling)
 
 ### Who Am I
 
@@ -23,7 +23,7 @@
 [![ZINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&hide_border=true&icon_color=004386&theme=react&layout=compact)](https://github.com/jinho2070)
 
 
-![header](https://capsule-render.vercel.app/api?&color=80FFFF&type=waving&section=footer)
+![header](https://capsule-render.vercel.app/api?&color=B22222&type=waving&section=footer)
 
 <p align="right">
   <a href="https://github.com/jinho2070">
