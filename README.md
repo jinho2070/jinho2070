@@ -6,7 +6,6 @@
 ### Who Am I
 - [What-I-learn]()
 - [Git-Blog](https://jinho2070.github.io/)
-- [Resume]()
 
 <!-- ### Kaggle -->
 
