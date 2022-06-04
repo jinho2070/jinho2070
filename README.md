@@ -16,7 +16,7 @@
 <br>
 <br>
 
-![JINO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinho2070&theme=algolia&show_icons=true)
+![JINO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinho2070&theme=github_dark&show_icons=true)
 
 <br>
 
