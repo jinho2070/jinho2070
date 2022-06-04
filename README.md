@@ -27,6 +27,6 @@
 
 <p align="right">
   <a href="https://github.com/jinho2070">
-    <img src="https://komarev.com/ghpvc/?username=jinho2070&label=Views&color=80FFFF&style=flat-square" alt="jinho2070"/>
+    <img src="https://komarev.com/ghpvc/?username=jinho2070&label=Views&color=B22222&style=flat-square" alt="jinho2070"/>
   </a>
 </p>
