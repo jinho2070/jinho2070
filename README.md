@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B22222&height=200&section=header&text=ZINO's&nbsp;&nbsp;GitHub&animation=twinkling)
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinho2070&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+  
 # Hi 👋, I'm JinHo Han
 
 ## 👨🏻‍💻 About Me
@@ -83,9 +89,10 @@
 
 
 
-
+<!-- 
 <p align="right">
   <a href="https://github.com/jinho2070">
     <img src="https://komarev.com/ghpvc/?username=jinho2070&label=Views&color=B22222&style=flat-square" alt="jinho2070"/>
   </a>
 </p>
+ -->
