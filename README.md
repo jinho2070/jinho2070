@@ -85,7 +85,8 @@
 <p align="center">
 
   ![ZINO's github stats](https://github-readme-stats.vercel.app/api?username=jinho2070&show_icons=true&theme=dark&include_all_commits=true&locale=en)
-[![ZINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&icon_color=004386&theme=dark&layout=compact)](https://github.com/jinho2070)
+  
+[![ZINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&icon_color=004386&theme=dark&layout=demo)](https://github.com/jinho2070)
 
 </p>
 
