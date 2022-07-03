@@ -72,26 +72,22 @@
 
 
 ## ⚙️ GitHub Analytics
-
+<!-- ### 나중에 링크 
 <p align="center">
   <a href="https://github.com/jinho2070/github-readme-stats">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jinho2070&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="jinho2070" align="center"/> &nbsp;
+
   </a>
   <a href="https://github.com/jinho2070">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&icon_color=004386&theme=dark&layout=compact)" alt="jinho2070" align="center"/>
   </a>
 </p>
+-->
 
 
 
-
-<p align="center">
-
-  ![ZINO's github stats](https://github-readme-stats.vercel.app/api?username=jinho2070&show_icons=true&theme=dark&include_all_commits=true&locale=en&card_width=170)
-  
-[![ZINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&icon_color=004386&theme=dark&layout=demo)](https://github.com/jinho2070)
-
-</p>
+![ZINO's github stats](https://github-readme-stats.vercel.app/api?username=jinho2070&show_icons=true&theme=dark&include_all_commits=true&locale=en&) &nbsp;
+[![ZINO's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho2070&show_icons=true&icon_color=004386&theme=dark&layout=demo&)](https://github.com/jinho2070)
 
 
 
