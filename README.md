@@ -9,8 +9,6 @@
 
 ## 👨🏻‍💻 About Me
 ### Who Am I
-- [What-I-learn]()
-- [Git-Blog](https://jinho2070.github.io/)
 - **I aim to be a developer who is constantly growing.**
 
 <!-- ### Kaggle -->
