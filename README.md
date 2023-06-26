@@ -93,7 +93,6 @@
 ## BaekJoon Tier
 <div align=center>
   
-[![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jinho2070)](https://solved.ac/jinho2070/)
 
 
 </div>
