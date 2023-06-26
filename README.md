@@ -7,7 +7,7 @@
   
 # Hi 👋, I'm JinHo Han
 
-## 👨🏻‍💻 About Me
+## 👍 About Me
 ### Who Am I
 - **I aim to be a developer who is constantly growing.**
 
