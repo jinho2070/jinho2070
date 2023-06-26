@@ -7,7 +7,7 @@
   
 # Hi 👋, I'm JinHo Han
 
-## 👍 About Me
+## 👨🏻‍💻 About Me
 ### Who Am I
 - **I aim to be a developer who is constantly growing.**
 
@@ -90,7 +90,7 @@
 </br>
 
 
-## 👨🏻‍💻 BaekJoon Tier
+## 💻 BaekJoon Tier
 <div align=center>
   
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinho2070)](https://solved.ac/jinho2070/)
